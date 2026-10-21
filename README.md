@@ -76,7 +76,7 @@ Modelos de Fronteira (SSMs, Difusão e Foundation Models): Incluem redes baseada
 ## 🔗 Link do Notebook Compartilhado
 - **Link do meu Notebook:**  https://notebook.google.com/notebook/6ecdc0e8-b463-41f4-b88c-8a1eeaf8d195
 
-## 📂 Todos os Materiais criados pelo Notebook na pasta ➡️ https://github.com/chiaramass/segundo-cerebro-visao-computacional/tree/b6c178ed642582b1861377de7bc3983e4532e4cb/Materiais%20e%20Prints
+## 📂 Todos os Materiais criados pelo Notebook estão nessa pasta ➡️ https://github.com/chiaramass/segundo-cerebro-visao-computacional/tree/b6c178ed642582b1861377de7bc3983e4532e4cb/Materiais%20e%20Prints
 
 - 🗺️ **Mapa Mental:** https://github.com/chiaramass/segundo-cerebro-visao-computacional/blob/main/Materiais%20e%20Prints/Beyond_Pixels.pptx
 
