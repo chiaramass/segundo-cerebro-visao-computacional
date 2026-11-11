@@ -29,6 +29,7 @@ A curated digital "Second Brain" built with **Google NotebookLM (Gemini)** and g
   * **Frontier Models:** State Space Models (Mamba), Diffusion models for data augmentation (D3M), and specialized genomic Foundation Models (FoundBioNet).
 
 ## Shared Notebook & Generated Materials
-* **Live Notebook:** [Access Gemini Notebook](https://google.com)
-* **Presentation Slides & Mind Map:** [Beyond_Pixels.pptx](./Materiais%20e%20Prints/Beyond_Pixels.pptx)
+* **Live Notebook:** https://notebook.google.com/notebook/6ecdc0e8-b463-41f4-b88c-8a1eeaf8d195
+* **Presentation Slides & Mind Map:** <img width="792" height="572" alt="image" src="https://github.com/user-attachments/assets/4245b35c-d4d0-45e4-8057-8a696f1fd858" />
+
 * **Visual Evidence & Screenshots:** Available in the [`Materiais e Prints`](./Materiais%20e%20Prints) folder.
